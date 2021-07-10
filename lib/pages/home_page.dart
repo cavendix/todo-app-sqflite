@@ -61,7 +61,7 @@ class _HomePageState extends State<HomePage> {
                     widget.user.email,
                     style: primaryTextStyle,
                     overflow: TextOverflow.ellipsis,
-                  )
+                  ),
                 ],
               ),
             ],
@@ -93,6 +93,7 @@ class _HomePageState extends State<HomePage> {
                         : TextDecoration.lineThrough),
               ),
               trailing: Checkbox(
+                
                 onChanged: (value) {
                   todo.status = value ? 1 : 0;
                   DatabaseHelper.instance.updateTodo(todo);

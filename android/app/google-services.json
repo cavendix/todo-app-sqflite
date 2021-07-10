@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795875727626",
+    "project_id": "simple-todo-sqflite",
+    "storage_bucket": "simple-todo-sqflite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795875727626:android:479366cf56fd4f3b58c2f3",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795875727626-16qnc9ppc7jacfpe5r7bh95qplrs201m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjKRaPRsn5gAbZm5pLJ_kSWnc8eNlOQx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795875727626-16qnc9ppc7jacfpe5r7bh95qplrs201m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
